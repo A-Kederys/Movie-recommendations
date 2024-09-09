@@ -32,7 +32,7 @@ Pressing this link scrolls down to reveal another "movie #0" link at the bottom,
 To view or contribute to this project:
 
 1. Clone this repository:  
-   `git clone https://github.com/A-Kederys/personal-movie-recommendations.git`
+   `git clone https://github.com/A-Kederys/Movie-recommendations.git`
 2. Open `index.html` in your browser to view the webpage.
 
 ## How to Use
