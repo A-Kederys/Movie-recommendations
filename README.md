@@ -44,4 +44,4 @@ To view or contribute to this project:
 Pressing it scrolls down to a hidden section showcasing a special movie recommendation.
 
 **P.S.**
-Venture into `index.js` code and your own risk.
+Venture into `index.js` and your own risk.
