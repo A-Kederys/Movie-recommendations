@@ -6,6 +6,10 @@ Welcome to my **Personal Movie Recommendations**, a personal movie review webpag
 This site showcases my top movie recommendations across various genres. Each recommendation comes with a brief synopsis, rating out of 10, and a link for further details.
 This is my **first semester project**.
 
+![Project Demo 1](showcase/demo1.gif)
+
+![Project Demo 2](showcase/demo2.gif)
+
 **Note**: Please be aware that this project is **not responsive**.
 
 ## Features
