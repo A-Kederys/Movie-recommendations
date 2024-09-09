@@ -31,14 +31,6 @@ Pressing this link scrolls down to reveal another "movie #0" link at the bottom,
 - **jQuery**: For styling and basic DOM manipulation;
 - **EmailJS**: For sending emails directly from the webpage.
 
-## Setup and Installation
-
-To view or contribute to this project:
-
-1. Clone this repository:  
-   `git clone https://github.com/A-Kederys/Movie-recommendations.git`
-2. Open `index.html` in your browser to view the webpage.
-
 ## How to Use
 
 - Navigate between genres using the buttons on the top of the page;
@@ -46,6 +38,14 @@ To view or contribute to this project:
 - Use the back-to-top button to easily scroll back to the top of the page;
 - Press the Tab key to reveal a secret "movie #0" link in the top navigation.
 Pressing it scrolls down to a hidden section showcasing a special movie recommendation.
+
+## Setup and Installation
+
+To view or contribute to this project:
+
+1. Clone this repository:  
+   `git clone https://github.com/A-Kederys/Movie-recommendations.git`
+2. Open `index.html` in your browser to view the webpage.
 
 **P.S.**
 Venture into `index.js` and your own risk.
