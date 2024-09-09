@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to my **Personal Movie Recommendations**, a personal movie review webpage called **Almantas K. Critiq**. 
+Welcome to my **Personal Movie Recommendations**, a personal movie review webpage. 
 This site showcases my top movie recommendations across various genres. Each recommendation comes with a brief synopsis, rating out of 10, and a link for further details.
 This is my **first semester project**.
 
